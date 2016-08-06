@@ -1,0 +1,62 @@
+{
+    "AS": {
+        "Query": "12",
+        "FullResults": 1,
+        "Results": [
+            {
+                "Type": "AS",
+                "Suggests": [
+                    {
+                        "Txt": "12306",
+                        "Url": "http://www.bing.com/results.aspx?q=12306&qs=AS&sk=",
+                        "Type": "AS",
+                        "Sk": "",
+                        "HCS": 0.634999
+                    },
+                    {
+                        "Txt": "126",
+                        "Url": "http://www.bing.com/results.aspx?q=126&qs=AS&sk=AS1",
+                        "Type": "AS",
+                        "Sk": "AS1"
+                    },
+                    {
+                        "Txt": "123网址之家",
+                        "Url": "http://www.bing.com/results.aspx?q=123%e7%bd%91%e5%9d%80%e4%b9%8b%e5%ae%b6&qs=AS&sk=AS2",
+                        "Type": "AS",
+                        "Sk": "AS2"
+                    },
+                    {
+                        "Txt": "126邮箱登陆",
+                        "Url": "http://www.bing.com/results.aspx?q=126%e9%82%ae%e7%ae%b1%e7%99%bb%e9%99%86&qs=AS&sk=AS3",
+                        "Type": "AS",
+                        "Sk": "AS3"
+                    },
+                    {
+                        "Txt": "12306铁路客户服务中心",
+                        "Url": "http://www.bing.com/results.aspx?q=12306%e9%93%81%e8%b7%af%e5%ae%a2%e6%88%b7%e6%9c%8d%e5%8a%a1%e4%b8%ad%e5%bf%83&qs=AS&sk=AS4",
+                        "Type": "AS",
+                        "Sk": "AS4"
+                    },
+                    {
+                        "Txt": "12306.cn",
+                        "Url": "http://www.bing.com/results.aspx?q=12306.cn&qs=AS&sk=AS5",
+                        "Type": "AS",
+                        "Sk": "AS5"
+                    },
+                    {
+                        "Txt": "12306网上订火车票官网",
+                        "Url": "http://www.bing.com/results.aspx?q=12306%e7%bd%91%e4%b8%8a%e8%ae%a2%e7%81%ab%e8%bd%a6%e7%a5%a8%e5%ae%98%e7%bd%91&qs=AS&sk=AS6",
+                        "Type": "AS",
+                        "Sk": "AS6"
+                    },
+                    {
+                        "Txt": "12306火车票网上订票官网",
+                        "Url": "http://www.bing.com/results.aspx?q=12306%e7%81%ab%e8%bd%a6%e7%a5%a8%e7%bd%91%e4%b8%8a%e8%ae%a2%e7%a5%a8%e5%ae%98%e7%bd%91&qs=AS&sk=AS7",
+                        "Type": "AS",
+                        "Sk": "AS7"
+                    }
+                ]
+            }
+        ]
+    }
+}

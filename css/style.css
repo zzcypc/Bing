@@ -1,0 +1,96 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: #333;
+}
+
+li {
+	list-style: none;
+}
+
+.main {
+	background-image: url(../img/KastellorizoIsland_1920x1200.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	width: 100%;
+	min-width: 720px;
+	height: 690px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+
+.search {
+	margin-top: 10%;
+	margin-left: 8%;
+	position: relative;
+}
+
+.search img {
+	display: block;
+	width: 107px;
+	float: left;
+}
+
+.search form {
+	float: left;
+	overflow: hidden;
+	background: #FFFFFF;
+	margin: 7px 0 8px 20px;
+}
+
+.search form input {
+	width: 490px;
+	height: 30px;
+	margin: 7px 0 8px 0;
+	padding: 0 10px;
+	border: none;
+	float: left;
+	font: 18px/normal 'Segoe UI', Arial, Helvetica, Sans-Serif;
+	line-height: 30px;
+	outline: none;
+	/*去掉边框*/
+}
+
+.search form button {
+	background-image: url(../img/hpc18.png);
+	background-position-x: -169px;
+	background-position-y: -63px;
+	width: 45px;
+	height: 45px;
+	background-color: #0c8484;
+	border: 8px solid #0c8484;
+	float: left;
+	cursor: pointer;
+}
+
+.suggest {
+	position: absolute;
+	width: 553px;
+	background-color: #FFFFFF;
+	top: 51px;
+	left: 127px;
+	border: 1px solid #ccc;
+	display: none;
+}
+
+.suggest li {
+	height: 30px;
+	cursor: pointer;
+	font: 18px/normal 'Segoe UI', Arial, Helvetica, Sans-Serif;
+}
+
+.suggest li a {
+	text-decoration: none;
+	color: #333333;
+	display: block;
+	line-height: 30px;
+	padding-left: 10px;
+}
+
+.suggest li:hover {
+	background-color: #eee;
+	text-decoration: underline;
+}
